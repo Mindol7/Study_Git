@@ -35,4 +35,4 @@ int main(){
 
 **이미지 파일 테스트~~**
 
-![프로필 이미지](/smartSelectImage_2023-12-12-02-08-29.png)
+![프로필 이미지](./SmartSelectImage_2023-12-12-02-08-29.png)
