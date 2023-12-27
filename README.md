@@ -17,7 +17,7 @@
 
 
 ```C++
-#include <iostream.h>
+#include <iostream>
 
 int main(){
   cout<<"I want to go home"<<endl;
